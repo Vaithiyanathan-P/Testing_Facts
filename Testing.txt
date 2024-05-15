@@ -7,3 +7,6 @@ Manual
 Automations
 
 Functional Testing
+
+Regression Testing
+
